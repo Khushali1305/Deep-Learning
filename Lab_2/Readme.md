@@ -59,7 +59,7 @@ Columns used: `overview`, `tagline`, `keywords`, `genre`, `voting_average`
 
 ## How to Run
 
-1. Upload your CSV and `glove.6B.100d.txt` to Colab via the 📁 sidebar
+1. Upload your CSV and `glove.6B.100d.txt` to Colab via the sidebar
 2. Install dependencies: `pip install torch scikit-learn pandas numpy nltk tqdm matplotlib`
 3. Run all cells top to bottom in `IT549_Lab2_GloVe_Movie_Prediction.ipynb`
 
