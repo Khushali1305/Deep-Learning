@@ -51,13 +51,17 @@ Task 6 - Misclassification Analysis
 
 **RESULTS SUMMARY**
 
-  Metric       BasicCNN     ResNet18 (Pretrained)
-  -------------------------------------------------
-  Accuracy     0.7122       0.9578
-  Precision    0.7236       0.9581
-  Recall       0.7122       0.9578
-  F1-Score     0.7015       0.9576
-  -------------------------------------------------
+BasicCNN
+Accuracy - 0.7122
+Precision - 0.7236
+Recall - 0.7122
+F1-Score - 0.7015
+
+ResNet18 (Pretrained)
+Accuracy - 0.9578
+Precision - 0.9581
+Recall - 0.9578
+F1-Score - 0.9576
 
 Key Observation:
   ResNet18 outperformed BasicCNN because it was pretrained on
