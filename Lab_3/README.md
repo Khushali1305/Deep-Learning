@@ -1,7 +1,5 @@
-============================================================
-IT549: Deep Learning - Lab 3
-Image-Based AQI Classification using CNN and Pretrained Models
-============================================================
+**IT549: Deep Learning - Lab 3
+Image-Based AQI Classification using CNN and Pretrained Models**
 
 Assignment Title : Image-Based AQI Classification using CNN and Pretrained Models
 Course           : IT549 - Deep Learning
